@@ -1,0 +1,22 @@
+.boton{
+    width:  800px;
+    margin: 23px auto;
+    padding: 10px;
+border: 2px solid rgb(33, 23, 122);
+border-radius: 20px;
+}
+
+.boton button{
+    color: white;
+    background-color: green;
+    border: 1px solid black;
+    padding: 9px;
+    border-radius: 20px;
+    margin: 2px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+    border-radius: 5px;
+    background-color: #4CAF50;
+    box-shadow: 0 5px #2E822E; 
+}

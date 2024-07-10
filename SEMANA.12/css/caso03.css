@@ -1,0 +1,16 @@
+.boton{
+    width:  800px;
+    padding: 10px;
+}
+
+.boton button{
+    color: white;
+    background-color:rebeccapurple;
+    padding: 10px;
+    margin : 5px;
+    width: 200px;
+    color: #fff;
+    border-radius: 50px;
+    background-color: rebeccapurple;
+    box-shadow: 5px rebeccapurple; 
+}
